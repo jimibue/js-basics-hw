@@ -1,5 +1,5 @@
 # Readings
- [Syntax] (https://www.javascripttutorial.net/javascript-syntax/
+ [Syntax] (https://www.javascripttutorial.net/javascript-syntax/)
  [Variables] (https://www.javascripttutorial.net/javascript-variables/
  [Data Type] (https://www.javascripttutorial.net/javascript-data-types/
  [Arrays] (https://www.javascripttutorial.net/javascript-array/
