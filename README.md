@@ -36,17 +36,18 @@ if(isOdd(2)){
 8. Fix the isOdd function to make this work
 
 ##### Functions
-1.Write a function that prints all even numbers from 0 – 10
-2.Write a function that takes an array and returns the sum of all the numbers
-3.Write a function that returns the number of vowels in string
-4.Write a function that math operator (*,/,+,-) and two numbers and returns the result
-5.Write a function that takes an array of strings and a string and returns true or false if the string is in the array.
-6.write a function that takes a person object {firstname: 'joe', lastname: 'shmoe', age: 50} and returns a formatted string "joe shmoe is 50 years old"
-7.write a function that takes an array that removes the first and last items and return that new array
-8.write a function that swaps the last and first items of an array 
-9.write a function that takes a array and a second argument and returns the index in the array of the second argument
-10.write a function that takes a number and uses a ternary to return if the number is odd or even.
-11.Write a function that prints all  numbers from 0 – 10
+1. Write a function that prints all even numbers from 0 – 10
+2. Write a function that takes an array and returns the sum of all the numbers
+3. Write a function that returns the number of vowels in string
+4. Write a function that math operator (*,/,+,-) and two numbers and returns the result
+5. Write a function that takes an array of strings and a string and returns true or false if the string is in the array.
+6. write a function that takes a person object {firstname: 'joe', lastname: 'shmoe', age: 50} and returns a formatted string "joe shmoe is 50 years old"
+7. write a function that takes an array that removes the first and last items and return that new array
+8. write a function that swaps the last and first items of an array 
+9. write a function that takes a array and a second argument and returns the index in the array of the second argument
+10. write a function that takes a number and uses a ternary to return if the number is odd or even.
+11. Write a function that prints all  numbers from 0 – 10
+
 *Bonus: if you get done with these try some brainteasers on [here edabit.com](edabit.com)*
 
 ### Optional Readings
